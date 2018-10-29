@@ -14,7 +14,7 @@ Even though your keys never leave the `eos-voter` applications, the API node you
 If you are concerned about revealing this information to any of these 3rd party API nodes, it is recommended you run your own API Node and connect to that.
 
 # EOS Nodes
-
+-  http://goeoslottery.cn -  operated by [exmotraderes](http://176.114.8.156)
 - https://eos.greymass.com - operated by [greymass](https://greymass.com)
 - https://mainnet.eoscalgary.io - operated by [EOS Cafe](https://eoscafecalgary.com/)
 - https://api.eosnewyork.io - operated by [EOS New York](https://www.eosnewyork.io/)
